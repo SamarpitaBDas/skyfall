@@ -79,19 +79,3 @@ Here are some screenshots of the app in action:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Optional Sections (if applicable):
-
-#### User Authentication
-
-If you’ve added authentication, describe how users can log in or sign up. Mention any authentication libraries used, like Firebase, Auth0, or a custom backend solution.
-
-#### Testing
-
-If you’ve set up automated testing with tools like Jest or Cypress, add instructions on running the tests.
-
-#### Deployment
-
-If the app is deployed to platforms like Netlify, Vercel, or Heroku, include the live demo links and instructions for deploying the app yourself.

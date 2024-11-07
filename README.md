@@ -27,7 +27,7 @@ To run the Skyfall application locally, follow the steps below:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/skyfall.git
+   git clone https://github.com/SamarpitaBDas/skyfall.git
    cd skyfall
    ```
 
